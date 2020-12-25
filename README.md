@@ -4,3 +4,6 @@
 LibreOffice官方地址：https://www.libreoffice.org/
 
 Notepad++官方地址：https://notepad-plus-plus.org/
+
+Mariadb数据库：https://downloads.mariadb.org/mariadb/10.3.27/
+
