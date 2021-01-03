@@ -11,5 +11,12 @@ Mariadb数据库：https://downloads.mariadb.org/mariadb/10.3.27/
 
 VLC媒体播放器：https://www.videolan.org/vlc/
 
+压缩解压工具：https://www.7-zip.org/
+
+集成交换引擎：https://github.com/nextgenhealthcare/connect  官方论坛：https://forums.mirthproject.io/
+
+
+
+
 
 
