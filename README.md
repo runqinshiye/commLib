@@ -17,6 +17,10 @@ VLC媒体播放器：https://www.videolan.org/vlc/
 
 博客手写工具：https://github.com/OpenLiveWriter/OpenLiveWriter  安装包下载：https://openlivewriter.com/  
 
+HL7V2测试工具：https://bitbucket.org/crambow/hl7inspector/wiki/Home  
+
+
+
 
 
 
