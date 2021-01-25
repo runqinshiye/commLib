@@ -19,7 +19,7 @@ VLC媒体播放器：https://www.videolan.org/vlc/
 
 HL7V2测试工具：https://bitbucket.org/crambow/hl7inspector/wiki/Home  
 
-NetBeans IDE工具：https://netbeans.apache.org/download/index.html  
+
 
 
 
