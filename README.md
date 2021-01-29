@@ -15,6 +15,10 @@ VLC媒体播放器：https://www.videolan.org/vlc/
 
 集成交换引擎：https://github.com/nextgenhealthcare/connect  官方论坛：https://forums.mirthproject.io/
 
+PDF文档阅读器：https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
+
+
+
 
 
 
