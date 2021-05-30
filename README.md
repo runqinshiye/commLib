@@ -15,9 +15,7 @@ VLC媒体播放器：https://www.videolan.org/vlc/
 
 集成交换引擎：https://github.com/nextgenhealthcare/connect  官方论坛：https://forums.mirthproject.io/
 
-PDF文档阅读器：https://www.sumatrapdfreader.org/download-free-pdf-viewer.html  
-
-博客手写工具：https://github.com/OpenLiveWriter/OpenLiveWriter  安装包下载：https://openlivewriter.com/  
+PDF文档阅读器：https://www.sumatrapdfreader.org/download-free-pdf-viewer.html   
 
 HL7V2测试工具：https://bitbucket.org/crambow/hl7inspector/wiki/Home  
 
